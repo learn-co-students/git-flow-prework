@@ -7,9 +7,16 @@
 * Resolve merge conflicts
 
 ## Lauren Here:
+<<<<<<< HEAD
  
 (╯°□°）╯︵ ┻━┻
 
+=======
+
+(╯°□°）╯︵ ┻━┻
+
+
+>>>>>>> 37610d7dea0808ef60a58624a6057ec91499a10d
 ## Instructions
 
 Remember to fork and clone this lab if you haven't already.
