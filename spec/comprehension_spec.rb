@@ -7,11 +7,7 @@ describe "GIT" do
   end
 
   it "2. What is the syntax for staging all files, including new, modified, and deleted files?" do
-<<<<<<< HEAD
     answer = "git add ."
-=======
-    answer = "git add --all" # or "git add -A" or "git add ."
->>>>>>> 37610d7dea0808ef60a58624a6057ec91499a10d
     encoded_answers = ["e3ed0db138a439522bc6f0a56c71b2c90e3443db", "d43b64f144ca0689fea30adb6e5cb2150c971a0c", "1a1c76a81d0981b7fe181d7869d1ede4d1a2a24f"]
     expect(encode(answer)).to satisfy { |answer| encoded_answers.include?(answer) }
   end
