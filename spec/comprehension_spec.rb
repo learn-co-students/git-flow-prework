@@ -1,7 +1,7 @@
 describe "GIT" do
 # describe "STAGING AND COMMITTING CHANGES:" do
   it "1. What is the syntax for staging a change in index.html if it is in the root dir?" do
-    answer = "?"
+    answer = "git add"
     encoded_answer = "bf338924ddc9ff4eb0c685a794960e0c4ffade2c"
     expect(encode(answer)).to eq(encoded_answer)
   end
