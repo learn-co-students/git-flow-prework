@@ -61,7 +61,7 @@ describe "GIT" do
 
 # describe "FETCHING:" do
   it "9. What command do you run to update all branches from all remotes?" do
-    answer = "git fetch all"
+    answer = "git fetch --all"
     encoded_answer = "01e5711a6878a7ed0e4c0078870b772d0a58f510"
     expect(encode(answer)).to eq(encoded_answer)
   end
@@ -76,7 +76,7 @@ describe "GIT" do
 
   it "11. What command do you run to update the local master branch with the 
       master branch on the remote 'upstream'?" do
-    answer = "git pull????????????????????????????????"
+    answer = "git pull upstream"
     encoded_answer = "10ce0782f27a2e126f7fe0f12dd189cc16578e26"
     expect(encode(answer)).to eq(encoded_answer)
   end
