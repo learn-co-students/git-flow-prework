@@ -265,6 +265,10 @@ Now you have:
   * Deleted a remote branch
 * Extra Credit
   * Practiced resolving merge conflicts, pushing, and deleting branches
+  
+  ## Lauren Here:
+ 
+(╯°□°）╯︵ ┻━┻  
 
 ## Resources
 * [SourceTree Blog](http://blog.sourcetreeapp.com/) - [Merge or Rebase?](http://blog.sourcetreeapp.com/2012/08/21/merge-or-rebase/)
