@@ -1,0 +1,11 @@
+From master, create branch add-turtle
+add turtle pic and caption to index.html
+merge add-turtle into master, now master has tree and turtle pics
+from master, create branch add-walrus
+add walrus pic and caption
+from master, create branch add-walrus-and-polar-bear
+add polar bear pic and caption
+merge add-walrus into add-walrus-and-polar-bear and fix merge conflicts - now branch has tree, turtle, polar bear, and walrus
+"Lauren" makes branch add-fireflies off of master and adds an emoticon to the readme
+add firefly pic and caption to add-firefly branch
+merge add-firefly into master
