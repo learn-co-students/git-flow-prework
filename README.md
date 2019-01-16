@@ -2,11 +2,13 @@
 
 ## Objectives
 
-* Get familiar with git syntax
+Get familiar with git syntax
 * Get comfortable creating, merging, pushing, and pulling branches
 * Resolve merge conflicts
 
-## Instructions
+## Lauren Here:
+ 
+(╯°□°）╯︵ ┻━┻* ## Instructions
 
 Remember to fork and clone this lab if you haven't already.
 
