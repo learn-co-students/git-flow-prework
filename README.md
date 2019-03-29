@@ -171,6 +171,10 @@ Since you're working on this project alone, you're going to mimic the remote cre
 (╯°□°）╯︵ ┻━┻
 
 ```
+## Lauren Here:
+ 
+(╯°□°）╯︵ ┻━┻
+ 
 
 * Now the readme should look like this:
   * ![table flip added to readme](https://s3-us-west-2.amazonaws.com/readme-photos/git-flow-update-lauren.png)
