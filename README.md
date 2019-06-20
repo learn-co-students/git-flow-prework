@@ -169,7 +169,7 @@ Since you're working on this project alone, you're going to mimic the remote cre
 ## Lauren Here:
 
 (╯°□°）╯︵ ┻━┻
-
+(╯°□°）╯︵ ┻━┻
 ```
 
 * Now the readme should look like this:
